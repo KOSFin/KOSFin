@@ -1,4 +1,4 @@
-# Dmitry Popov — Frontend Developer (React / JavaScript)
+# Nagiif — Frontend Developer (React / JavaScript)
 
 Proactive frontend developer focused on modern web apps (SPA/PWA/Telegram Mini Apps) with **React + Vite**. Strong UX mindset (Material Design 3), clean responsive layouts, and solid API integration skills (Swagger/OpenAPI). Also have backend and DevOps experience, which helps build reliable client‑server flows end‑to‑end.
 
